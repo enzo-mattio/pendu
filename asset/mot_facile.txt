@@ -1,0 +1,8 @@
+gouter
+souris
+ordinateur
+etui
+voiture
+chaise
+ecran
+tasse
